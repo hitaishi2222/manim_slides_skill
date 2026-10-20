@@ -95,5 +95,5 @@ Feel free to open issues or submit pull requests to add more Manim‑related cap
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).
 
